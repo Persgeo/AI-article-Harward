@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Опрос для сотрудников.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Опрос для сотрудников"
+              "title": "README"
             }
           }
         ]
@@ -171,9 +171,9 @@
   "active": "059e132ff2a01def",
   "lastOpenFiles": [
     "README.md",
-    "Анализ опроса ИИ за 2023.md",
-    "Опрос для сотрудников.md",
     "Welcome.md",
+    "Опрос для сотрудников.md",
+    "Анализ опроса ИИ за 2023.md",
     "Content/Введение.md",
     "Resoreses PDF/ssrn-5188231.pdf",
     "Content",
