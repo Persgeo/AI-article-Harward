@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0c391d5b300ad8",
+        "id": "b0730ee4fe9e9de5",
         "type": "tabs",
         "children": [
           {
-            "id": "30e9273709355288",
+            "id": "059e132ff2a01def",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Опрос для сотрудников.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опрос для сотрудников"
             }
           }
         ]
@@ -164,8 +168,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "30e9273709355288",
+  "active": "059e132ff2a01def",
   "lastOpenFiles": [
+    "README.md",
+    "Анализ опроса ИИ за 2023.md",
+    "Опрос для сотрудников.md",
     "Welcome.md",
     "Content/Введение.md",
     "Resoreses PDF/ssrn-5188231.pdf",
@@ -194,8 +201,6 @@
     "Content/Экспериментальный дизайн. Экспериментальный подход.md",
     "Content/Экспериментальный дизайн. Эмпирическая настройка.md",
     "Content/Связанная литература 3.md",
-    "Content/Связанная литература 2.md",
-    "Content/Связанная литература.md",
     "Resourses PNG/Pasted image 20250501200106.png",
     "Resourses PNG/Pasted image 20250430191130.png",
     "Resourses PNG/Pasted image 20250430190126.png",
